@@ -1,0 +1,13 @@
+body{
+    font-size: 20pt;
+}
+h1{
+    font: normal 30pt Lontara
+}
+a#nomes{
+    font: bold 20pt Times New Roman
+}
+a#vermelho{
+    font: bold 20pt Times New Roman;
+    color: red;
+}
